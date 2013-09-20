@@ -1,0 +1,67 @@
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+.button-container {
+  display: inline-block;
+  width: 90px;
+  text-align: right;
+}
+
+.expansion {
+  margin-left: 94px;
+}
+
+table.arguments {
+  table-layout:fixed;
+}
+
+table th > span,
+table td > span {
+  font-size: 1px;
+}
+
+table th {
+  width: 25%;
+}
+
+table td:nth-child(2) {
+  width: 20%;
+}
+
+table td:nth-child(3) {
+  width: 55%;
+}
+
+button {
+  margin-right: 4px;
+}
+
+.list-group-item {
+  padding: 4px 9px;
+}
+
+h3 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+
+.spinner {
+  font-size: 40px;
+  padding: 40px;
+  text-align:center;
+  -webkit-animation: rotation 2s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+    from {-webkit-transform: rotate(0deg);}
+    to   {-webkit-transform: rotate(359deg);}
+}
+
+.list-group-item:first-child {
+  border-radius: 0;
+}
+
+.list-group-item-heading {
+  margin-top: 5px;
+}
