@@ -5,7 +5,6 @@ bower_components/**/*.md
 bower_components/**/*.html
 bower_components/**/*.yml
 bower_components/**/*.less
-bower_components/**/*.map
 bower_components/**/tests/*
 bower_components/**/assets/*
 bower_components/**/examples/*
