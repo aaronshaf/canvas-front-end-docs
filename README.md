@@ -1,2 +1,1 @@
-canvas-api-docs
-===============
+see the gh-pages branch
